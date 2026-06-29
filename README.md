@@ -1,30 +1,33 @@
-██████████████████████████████████████████████
+<div align="center">
 
-          LEETCODE SOLUTIONS
+# LeetCode Solutions
 
-      Clean Code • C++ • DSA • Algorithms
+*A collection of my accepted LeetCode solutions in C++.*
 
-██████████████████████████████████████████████
-<p align="center"> <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus"> <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode"> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"> <img src="https://img.shields.io/github/license/pixel-library/leetcode-problems?style=for-the-badge"> </p>
+<p>
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/pixel-library/leetcode-problems?style=for-the-badge">
+</p>
 
-A curated collection of accepted LeetCode solutions written in C++.
-This repository documents my journey in mastering Data Structures,
-Algorithms, and coding interview preparation.
+</div>
 
-────────────────────────────────────────────────────────────────
+---
 
-Statistics
+## About
 
-• Language : C++
-• Platform : LeetCode
-• Status   : Active
-• Solutions: XXX+
+This repository contains my accepted solutions to **LeetCode** problems, written in **C++**.
 
-────────────────────────────────────────────────────────────────
+It documents my journey of improving problem-solving skills, mastering Data Structures & Algorithms, and preparing for technical interviews.
 
-Repository Structure
+---
 
-leetcode-problems
+## Repository Structure
+
+```text
+leetcode-problems/
+│
 ├── Arrays
 ├── Binary Search
 ├── Bit Manipulation
@@ -32,45 +35,47 @@ leetcode-problems
 ├── Graphs
 ├── Greedy
 ├── Linked List
+├── Math
+├── Queue
+├── Sliding Window
 ├── Stack
 ├── Strings
 ├── Trees
 └── ...
+```
 
-────────────────────────────────────────────────────────────────
+---
 
-Topics
+## Topics
 
-✓ Arrays
-✓ Strings
-✓ Hashing
-✓ Two Pointers
-✓ Sliding Window
-✓ Binary Search
-✓ Linked List
-✓ Trees
-✓ Graphs
-✓ Heap
-✓ DP
-✓ Greedy
-✓ Backtracking
-✓ Bit Manipulation
+* Arrays
+* Strings
+* Hash Maps
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Linked List
+* Stack
+* Queue
+* Trees
+* Graphs
+* Dynamic Programming
+* Greedy
+* Backtracking
+* Bit Manipulation
 
-────────────────────────────────────────────────────────────────
+---
 
-Goals
+## Contributing
 
-□ 100 Problems
-□ 250 Problems
-□ 500 Problems
-□ 1000 Problems
+Contributions, suggestions, and improvements are welcome.
 
-────────────────────────────────────────────────────────────────
+If you find a better approach or an issue, feel free to open an Issue or submit a Pull Request.
 
-Contributing
+---
 
-Pull requests, suggestions, and discussions are welcome.
+<div align="center">
 
-────────────────────────────────────────────────────────────────
+⭐ **If you find this repository useful, consider giving it a star.**
 
-Made with ❤️ by Rudra Sharma
+</div>
