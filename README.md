@@ -1,135 +1,172 @@
-# 🚀 LeetCode Solutions
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/pixel-library/leetcode-problems?style=for-the-badge">
-</p>
+# ⚡ LeetCode Solutions
 
-<p align="center">
-A curated collection of my <b>LeetCode</b> solutions implemented in <b>C++</b>.  
-This repository serves as my coding interview preparation journal and demonstrates efficient problem-solving using Data Structures and Algorithms.
-</p>
+### *Mastering Data Structures & Algorithms — One Problem at a Time.*
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+LeetCode+Repository!;C%2B%2B+%7C+Data+Structures+%7C+Algorithms;Interview+Preparation+Journey;Always+Learning+🚀" />
 
-## 📖 About
+<br>
 
-This repository contains accepted solutions to LeetCode problems.
+![GitHub Repo stars](https://img.shields.io/github/stars/pixel-library/leetcode-problems?style=for-the-badge\&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/pixel-library/leetcode-problems?style=for-the-badge\&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/pixel-library/leetcode-problems?style=for-the-badge\&color=green)
+![GitHub License](https://img.shields.io/github/license/pixel-library/leetcode-problems?style=for-the-badge)
 
-Each solution focuses on:
+![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge\&logo=cplusplus)
+![LeetCode](https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge\&logo=leetcode)
+![DSA](https://img.shields.io/badge/Data%20Structures-%E2%9C%94-success?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-%F0%9F%9A%80-red?style=for-the-badge)
 
-* ✅ Clean and readable C++ code
-* ⚡ Optimal time and space complexity
-* 📚 Standard DSA approaches
-* 🎯 Interview-oriented solutions
-
-The repository is continuously updated as I solve more problems.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🌌 About
 
-* **Language:** C++
-* **Platform:** LeetCode
-* **IDE:** Visual Studio Code
+Welcome to my personal **LeetCode Solutions Repository**.
+
+This repository contains my accepted solutions to LeetCode problems written in **C++** while preparing for software engineering interviews.
+
+Every solution is written with a focus on:
+
+* 🚀 Optimal Time Complexity
+* 💡 Clean & Readable Code
+* 📚 Interview-Oriented Approach
+* ⚡ Efficient Algorithms
+* 🎯 Continuous Learning
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 leetcode-problems/
 │
-├── Arrays/
-├── Strings/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Binary Search/
-├── Trees/
-├── Graphs/
-├── Dynamic Programming/
-├── Greedy/
-├── Backtracking/
-└── ...
+├── 📁 Arrays
+├── 📁 Strings
+├── 📁 Linked List
+├── 📁 Stack
+├── 📁 Queue
+├── 📁 Binary Search
+├── 📁 Trees
+├── 📁 Graphs
+├── 📁 Dynamic Programming
+├── 📁 Greedy
+├── 📁 Backtracking
+└── 📁 Bit Manipulation
 ```
 
 ---
 
-## 🎯 Topics Covered
+# 📚 Topics Covered
 
-* Arrays
-* Strings
-* Hashing
-* Two Pointers
-* Sliding Window
-* Binary Search
-* Linked List
-* Stack
-* Queue
-* Trees
-* Binary Search Trees
-* Heap / Priority Queue
-* Graphs
-* DFS & BFS
-* Dynamic Programming
-* Greedy Algorithms
-* Backtracking
-* Bit Manipulation
-* Recursion
-
----
-
-## 📈 Goals
-
-* Solve 500+ LeetCode Problems
-* Master Data Structures & Algorithms
-* Prepare for Software Engineering Interviews
-* Improve Problem Solving Skills
-* Maintain Consistency
+| Category            | Status |
+| ------------------- | ------ |
+| Arrays              | ✅      |
+| Strings             | ✅      |
+| Hash Maps           | ✅      |
+| Two Pointers        | ✅      |
+| Sliding Window      | ✅      |
+| Binary Search       | ✅      |
+| Linked List         | ✅      |
+| Stack               | ✅      |
+| Queue               | ✅      |
+| Trees               | ✅      |
+| BST                 | ✅      |
+| Heap                | ✅      |
+| Graph               | ✅      |
+| DFS                 | ✅      |
+| BFS                 | ✅      |
+| Dynamic Programming | ✅      |
+| Greedy              | ✅      |
+| Recursion           | ✅      |
+| Backtracking        | ✅      |
+| Bit Manipulation    | ✅      |
 
 ---
 
-## 🌟 Why this Repository?
+# 🎯 Goals
 
-✔ Well-organized solutions
-
-✔ Interview-friendly implementations
-
-✔ Easy to navigate
-
-✔ Continuous updates
-
-✔ Personal learning archive
+* ✅ Solve 500+ LeetCode Problems
+* ✅ Improve DSA Skills
+* ✅ Master Competitive Programming
+* ✅ Crack Technical Interviews
+* ✅ Write Clean & Optimized Code
 
 ---
 
-## 🤝 Contributions
+# 📈 Progress
 
-This repository is primarily maintained for personal learning.
+```text
+Easy        ████████████░░░░░
+Medium      █████████░░░░░░░░
+Hard        ████░░░░░░░░░░░░░
 
-However, if you find a bug or have a better solution, feel free to open an Issue or submit a Pull Request.
+Overall     ███████░░░░░░░░░░
+```
+
+> Update the bars as you solve more problems.
 
 ---
 
-## ⭐ Support
+# ⭐ Why This Repository?
 
-If you find this repository helpful:
+✨ Clean folder structure
 
-* ⭐ Star this repository
+✨ Interview-ready solutions
+
+✨ Optimized algorithms
+
+✨ Consistent updates
+
+✨ Beginner-friendly
+
+✨ Easy navigation
+
+---
+
+# 🚀 Tech Stack
+
+* 💻 C++
+* 🧠 Data Structures
+* ⚙️ Algorithms
+* 🖥️ Visual Studio Code
+* 🌐 Git & GitHub
+
+---
+
+# 🤝 Contributions
+
+Contributions are always welcome!
+
+Feel free to:
+
+* ⭐ Star the repository
 * 🍴 Fork it
-* 📢 Share it with others
+* 🐛 Report issues
+* 💡 Suggest better approaches
 
 ---
 
-## 📬 Connect With Me
+<div align="center">
 
-* GitHub: https://github.com/pixel-library
+# 🌟 If you like this repository
+
+### Give it a ⭐
+
+It motivates me to keep solving more problems!
 
 ---
 
-<p align="center">
-<b>Happy Coding! 🚀</b>
-</p>
+### 👨‍💻 Developed by
+
+## **Rudra Sharma**
+
+**GitHub:** https://github.com/pixel-library
+
+---
+
+### 🚀 Happy Coding!
+
+</div>
