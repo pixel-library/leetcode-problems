@@ -23,29 +23,6 @@ It documents my journey of improving problem-solving skills, mastering Data Stru
 
 ---
 
-## Repository Structure
-
-```text
-leetcode-problems/
-│
-├── Arrays
-├── Binary Search
-├── Bit Manipulation
-├── Dynamic Programming
-├── Graphs
-├── Greedy
-├── Linked List
-├── Math
-├── Queue
-├── Sliding Window
-├── Stack
-├── Strings
-├── Trees
-└── ...
-```
-
----
-
 ## Topics
 
 * Arrays
